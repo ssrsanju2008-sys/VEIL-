@@ -1,0 +1,6 @@
+{
+  "name": "VEIL",
+  "description": "Wearable Emergency Identification & Link companion app for emergency BLE wristbands",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
